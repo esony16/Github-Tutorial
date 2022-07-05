@@ -1,0 +1,17 @@
+For initializing the repository
+
+1. git init
+2. git add "filename"
+3. git status
+4. git commit -m "Comment"
+5. git remote add origin "repo link"
+6. git push -u origin master
+
+
+For adding files to existing repository
+
+1. git init
+2. git add "Filename"
+3. git status
+4. git commit -m "comment"
+5. git push origin master
